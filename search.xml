@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>实验物理中概率论和统计</title>
-      <link href="/2025/02/02/%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E6%A6%82%E7%8E%87%E8%AE%BA%E5%92%8C%E7%BB%9F%E8%AE%A1/"/>
-      <url>/2025/02/02/%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E6%A6%82%E7%8E%87%E8%AE%BA%E5%92%8C%E7%BB%9F%E8%AE%A1/</url>
+      <title>微分方程</title>
+      <link href="/2025/02/11/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/"/>
+      <url>/2025/02/11/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><ol><li><a href="#%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80">概率论基础</a><ul><li>随机变量</li><li>概率分布</li><li>数学期望与方差</li><li>大数法则与中心极限定理</li></ul></li><li><a href="#%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80">统计学基础</a><ul><li>描述性统计</li><li>参数估计</li><li>假设检验</li><li>回归分析</li></ul></li><li><a href="#%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E4%B8%8E%E5%BA%94%E7%94%A8">概率分布与应用</a><ul><li>离散概率分布（如二项分布、泊松分布）</li><li>连续概率分布（如正态分布、指数分布）</li></ul></li><li><a href="#%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B">随机过程</a><ul><li>马尔可夫过程</li><li>随机游走</li><li>布朗运动</li></ul></li><li><a href="#%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8">实验物理中的应用</a><ul><li>数据拟合与回归分析</li><li>概率模型在实验中的应用</li><li>误差分析与实验设计</li></ul></li></ol><hr><h3 id="参考书籍"><a href="#参考书籍" class="headerlink" title="参考书籍"></a>参考书籍</h3><ol><li><strong>《概率论与数理统计》</strong>，周树勋，华东理工大学出版社。</li><li><strong>《概率论基础与应用》</strong>，谢希仁，高等教育出版社。</li><li><strong>《统计学原理》</strong>，王恩东，高等教育出版社。</li><li><strong>《应用回归分析》</strong>，邵小平，科学出版社。</li></ol><hr>]]></content>
+        <content type="html"><![CDATA[<h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3>]]></content>
       
       
       <categories>
@@ -20,7 +20,32 @@
       
         <tags>
             
-            <tag> 概率论与统计学 </tag>
+            <tag> 数学物理方法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Memo</title>
+      <link href="/2025/02/11/%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/02/11/%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Memo组会笔记"><a href="#Memo组会笔记" class="headerlink" title="Memo组会笔记"></a>Memo组会笔记</h1><h2 id="2025-02-11"><a href="#2025-02-11" class="headerlink" title="2025-02-11"></a>2025-02-11</h2><h3 id="1-概述"><a href="#1-概述" class="headerlink" title="1. 概述"></a>1. 概述</h3><ul><li><strong>内容</strong>：本周主要讨论了Memo组会的内容，包括本周的进展、下周的计划以及一些其他的问题。</li></ul><h3 id="2-本周进展"><a href="#2-本周进展" class="headerlink" title="2. 本周进展"></a>2. 本周进展</h3><ul><li><strong>张鹏</strong>：本周主要完成了Memo组会的准备工作，包括整理了本周的进展、下周的计划以及一些其他的问题。<div class="row">    <embed src="/pdf/Memo之论文.pdf" width="100%" height="550" type="application/pdf"></div></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 粒子物理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 粒子物理 </tag>
             
         </tags>
       
@@ -48,6 +73,31 @@
             <tag> GitHub </tag>
             
             <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实验物理中概率论和统计</title>
+      <link href="/2025/02/02/%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E6%A6%82%E7%8E%87%E8%AE%BA%E5%92%8C%E7%BB%9F%E8%AE%A1/"/>
+      <url>/2025/02/02/%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E6%A6%82%E7%8E%87%E8%AE%BA%E5%92%8C%E7%BB%9F%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><ol><li><a href="#%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80">概率论基础</a><ul><li>随机变量</li><li>概率分布</li><li>数学期望与方差</li><li>大数法则与中心极限定理</li></ul></li><li><a href="#%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80">统计学基础</a><ul><li>描述性统计</li><li>参数估计</li><li>假设检验</li><li>回归分析</li></ul></li><li><a href="#%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E4%B8%8E%E5%BA%94%E7%94%A8">概率分布与应用</a><ul><li>离散概率分布（如二项分布、泊松分布）</li><li>连续概率分布（如正态分布、指数分布）</li></ul></li><li><a href="#%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B">随机过程</a><ul><li>马尔可夫过程</li><li>随机游走</li><li>布朗运动</li></ul></li><li><a href="#%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8">实验物理中的应用</a><ul><li>数据拟合与回归分析</li><li>概率模型在实验中的应用</li><li>误差分析与实验设计</li></ul></li></ol><hr><h3 id="参考书籍"><a href="#参考书籍" class="headerlink" title="参考书籍"></a>参考书籍</h3><ol><li><strong>《概率论与数理统计》</strong>，周树勋，华东理工大学出版社。</li><li><strong>《概率论基础与应用》</strong>，谢希仁，高等教育出版社。</li><li><strong>《统计学原理》</strong>，王恩东，高等教育出版社。</li><li><strong>《应用回归分析》</strong>，邵小平，科学出版社。</li></ol><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学物理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 概率论与统计学 </tag>
             
         </tags>
       
